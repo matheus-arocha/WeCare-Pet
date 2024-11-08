@@ -8,3 +8,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
 <h2>Pré Visualização do Projeto</h2>
+<img src="https://github.com/matheus-arocha/WeCare-Pet/blob/master/img/We-Care-visu.png?raw=true"/>
